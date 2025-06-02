@@ -1,0 +1,2 @@
+﻿python-telegrem-bot==20.0
+nest_asyncio
